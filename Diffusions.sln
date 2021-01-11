@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diffusions", "Diffusions\Di
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OMPIntegration", "OMPIntegration\OMPIntegration.vcxproj", "{5EDC02F7-6096-4A52-9433-1043BC361BAB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TPLIntegration", "TPLIntegration\TPLIntegration.csproj", "{D14EB70E-E110-418B-B7B3-329EA8709EA6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -38,6 +40,18 @@ Global
 		{5EDC02F7-6096-4A52-9433-1043BC361BAB}.Release|x64.Build.0 = Release|x64
 		{5EDC02F7-6096-4A52-9433-1043BC361BAB}.Release|x86.ActiveCfg = Release|Win32
 		{5EDC02F7-6096-4A52-9433-1043BC361BAB}.Release|x86.Build.0 = Release|Win32
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Debug|x64.Build.0 = Debug|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Debug|x86.Build.0 = Debug|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Release|x64.ActiveCfg = Release|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Release|x64.Build.0 = Release|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Release|x86.ActiveCfg = Release|Any CPU
+		{D14EB70E-E110-418B-B7B3-329EA8709EA6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
