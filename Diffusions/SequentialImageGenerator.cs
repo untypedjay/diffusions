@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.ComponentModel;
 
 namespace Diffusions
 {
     public class SequentialImageGenerator : ImageGenerator
     {
+
         protected override void UpdateMatrix(Area area)
         {
             for (int x = 0; x < area.Width; x++)
