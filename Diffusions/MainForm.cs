@@ -12,8 +12,8 @@ namespace Diffusions {
     public MainForm() {
       InitializeComponent();
 
-      generator = new SequentialImageGenerator();
-      //generator = new ParallelImageGenerator();
+      //generator = new SequentialImageGenerator();
+      generator = new ParallelImageGenerator();
       generator.ImageGenerated += generator_ImageGenerated;
     }
 
